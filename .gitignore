@@ -1,2 +1,7 @@
 config/add.php
+config/cache.php
+config/delete.php
+config/update.php
+config/upgrade.php
+config/url.php
 config/test.php
