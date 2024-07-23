@@ -1,0 +1,1 @@
+cp config/update.php config/update_cp.php

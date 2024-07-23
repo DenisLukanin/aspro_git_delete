@@ -5,3 +5,6 @@ config/update.php
 config/upgrade.php
 config/url.php
 config/test.php
+
+
+config/update_cp.php
