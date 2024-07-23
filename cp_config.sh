@@ -1,1 +1,1 @@
-cp config/update.php config/update_cp.php
+cp config/upgrade.php config/upgrade_cp.php
