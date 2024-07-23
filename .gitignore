@@ -8,3 +8,4 @@ config/test.php
 
 
 config/update_cp.php
+config/upgrade_cp.php
